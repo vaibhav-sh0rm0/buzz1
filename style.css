@@ -1,0 +1,42 @@
+.carousel-caption h1 {
+     font-size: 80px;
+     font-style: oblique;
+     display: flex;
+     
+     justify-content: center;
+     padding: 90px;
+     color:white;
+}
+.carousel-caption h3  {
+    color:whitesmoke;
+    font-style: italic;
+    padding: 60px;
+    font-size: 40px;
+    font-style: inherit;
+}
+
+.navbar-brand{
+font-style: oblique;
+font-family: fantasy;
+font-size:30px !important;
+    
+}
+#navbarNav {
+    font-size: 150%;
+  
+}
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  .aboutushead a {
+      text-decoration: none;
+      display: flex;
+      justify-content: center;
+      font-size: 60px;
+      font: bold;
+      font-family: sans-serif;
+      color: black;
+      font-weight: bolder;
+  }
+ 
